@@ -25,12 +25,25 @@ Technologies Used
 - ArrayList
 - OOP Principles
 
- How to Run
+▶ How to Run
 
-1. Open the project in any Java IDE (IntelliJ / VS Code / Eclipse)
-2. Run `Main.java`
-3. Follow the menu instructions in the console
+Method 1: Using an IDE (Easiest)
 
----
+1. Download the project (Code → Download ZIP).
+2. Open the project in IntelliJ / VS Code / Eclipse.
+3. Run `Main.java`.
+4. Follow the menu instructions in the console.
+
+ Method 2: Using Command Line
+
+1. Make sure Java is installed.
+2. Open terminal inside the project folder.
+3. Compile:
+
+   javac *.java
+
+4. Run:
+
+   java Main
 
 Developed by Yasanga
